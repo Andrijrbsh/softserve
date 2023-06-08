@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\bin\Debug\net6.0\SoftServe1lesson.exe
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\bin\Debug\net6.0\SoftServe1lesson.deps.json
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\bin\Debug\net6.0\SoftServe1lesson.runtimeconfig.json
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\bin\Debug\net6.0\SoftServe1lesson.dll
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\bin\Debug\net6.0\SoftServe1lesson.pdb
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.AssemblyInfo.cs
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.dll
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\refint\SoftServe1lesson.dll
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.pdb
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\SoftServe1lesson.genruntimeconfig.cache
+\\Mac\Home\Desktop\softserve\SoftServe1lesson\SoftServe1lesson\obj\Debug\net6.0\ref\SoftServe1lesson.dll
